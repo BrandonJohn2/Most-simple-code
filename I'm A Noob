@@ -2,3 +2,4 @@ i = 0
 while True:
     print(i)
     i+=1
+    print("one has been added to your previous number")
